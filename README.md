@@ -31,7 +31,7 @@
 
 ## 🎯 Goals
 
-- Finish WGU Cybersecurity degree in under 6 months  
+- Finish WGU Cybersecurity degree 
 - Pass CySA+  
 - Land an entry-level SOC or security analyst role  
 - Build projects that actually reflect job tasks
